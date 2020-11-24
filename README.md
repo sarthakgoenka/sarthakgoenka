@@ -1,5 +1,5 @@
 <!-- <img src="https://raw.githubusercontent.com/sarthakgoenka/saadpasta/sarthakgoenka/GithubBanner.png"/> -->
-<img src="./GithubBanner.png"/>
+<img src="./bannerGithub.png"/>
  <hr></hr>
 <p align="center">
   <samp>
