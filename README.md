@@ -9,8 +9,8 @@
     ✨ Favorite Tech: JavaScript, React, Angular, NodeJS, Python ... <br>
     🤔 I’m looking for help with Docker deployment.<br>
     ✉️ <a href="mailto:sharthak31@gmail.com">sharthak31@gmail.com </a><br>
-   🎨 Portfolio: <a>https://sarthak-agrawal.me</a> <br>
-    💼 LinkedIn: <a>https://www.linkedin.com/in/sarthak-agrawal-a41aa3153/</a> <br>
+   🎨 Portfolio: <a target="_blank" href="https://sarthak-agrawal.me">https://sarthak-agrawal.me</a> <br>
+    💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/sarthak-agrawal-a41aa3153/">https://www.linkedin.com/in/sarthak-agrawal-a41aa3153/</a> <br>
   </samp>
 </p>
 
