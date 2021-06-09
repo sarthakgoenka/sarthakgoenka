@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     Hi, I'm Sarthak! 👋 <br>
-   🔥 Full Stack Developer at <a href="https://squareboat.com/">SquareBoat</a><br>
+   🔥 Software Engineer at <a href="https://paytm.com/">Paytm</a><br>
     ✨ Favorite Tech: JavaScript, React, Angular, NodeJS, Python ... <br>
     🤔 I’m looking for help with Docker deployment<br>
     ❤️ Newly found love in NestJS!<br>
